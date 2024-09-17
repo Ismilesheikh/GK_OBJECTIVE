@@ -1,0 +1,27 @@
+*{margin: 0;
+padding: 0;}
+
+
+.title{width: 100%;
+height: 200px;
+text-align: center;
+color: white;
+font-weight: bolder;
+font-size: 30px;
+background-color: aquamarine;}
+
+.sub{width: 150px;
+height: 150px;
+font-size: 25px;
+margin: 20px;
+text-align: center;
+align-items: center;
+border-radius: 10px;
+box-shadow: 3px 3px 3px 3px darkgray;
+background: skyblue;
+border: 1px solid darkgray;}
+
+a{text-decoration-line: none;}
+table{box-shadow: 2px 2px 2px 2px darkkhaki;
+margin-left: 20%;
+margin-top: 20px;}

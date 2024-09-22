@@ -1,11 +1,11 @@
 body {margin: 0;
     
 }
-div{
-  width: 90%;
-  margin: 5%;
+button{
+  width: 80%;
+margin-top:20px;
   border-radius: 5%;
-  background:MediumSpringGreen;
+  background:rgb(51, 147, 226);
  
 }
 .head{text-align: center;
@@ -16,21 +16,21 @@ div{
   font-weight: bolder;
   margin: 5%;
 }
-div{
-  text-align: center;
+button{
   color: white;
+  border: none;
+  box-shadow: 3px 3px 3px 3px darkgray;
+  font-size: 25px;
   font-weight:bold;
-  margin-left: 5%;
-  margin-right: 5%;
-}
-div.chapters p{background: none;
-  font-size: 30px;
-  text-align: left;
-  margin: 0px;
-  margin-left: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
- div.chapters p:hover{background:white;
+ button:hover{background:white;
   color: indianred;
+  box-shadow: 5px 5px 5px 5px darkgray;
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 

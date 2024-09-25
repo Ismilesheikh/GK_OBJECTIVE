@@ -1,17 +1,24 @@
 body {margin: 0;
     
 }
+
+.container{border: 2px solid goldenrod;
+margin: 50px;
+border-radius: 10px;
+box-shadow:5px 5px 5px 5px darkgray ;}
 button{
-  width: 80%;
+  width: 90%;
   margin-top:10px;
   margin-bottom: 10px;
+  border: 2px solid goldenrod;
   border-radius: 5%;
   background:rgb(51, 147, 226);
  
 }
 .head{text-align: center;
-  font-size: 30px;
-  background: lightpink;
+  font-size: 50px;
+  border-radius: 2px;
+  background: goldenrod;
   color:white;
   font-style: sans-serif;
   font-weight: bolder;
@@ -21,12 +28,11 @@ button{
 button {
   text-align: center;
   color: white;
-  border: none;
   box-shadow: 3px 3px 3px 3px darkgray;
   font-size: 25px;
   font-weight:bold;
-  margin-left: 10%;
-  margin-right: 10%;}
+  margin-left: 5%;
+  margin-right: 5%;}
 
 
  button:hover{background:white;

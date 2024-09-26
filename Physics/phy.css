@@ -1,6 +1,5 @@
-body {margin: 0;
-    
-}
+*{margin: 0;
+padding: 0;}
 
 .container{border: 2px solid goldenrod;
 margin: 10px;

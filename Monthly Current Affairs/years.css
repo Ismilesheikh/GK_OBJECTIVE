@@ -1,19 +1,28 @@
 body{margin:0;}
-.yhead{font-size: 30px;
+.container{border: 2px solid goldenrod;}
+
+.yhead{font-size: 40px;
   font-weight:bolder;
-  text-align: center ;
+  text-align: center;
+  text-decoration: underline;
 }
-div p{width:70%;
-  margin:15%;
+
+
+.container{margin: 10px;
+border: 2px solid goldenrod;
+border-radius: 5px;}
+button{width:80%;
+  margin:10%;
   box-shadow: 2px 2px 2px 2px darkgrey;
-  font-size: 35px;
+  font-size: 55px;
+  border: 1px darkgray;
   border-radius: 5px;
   text-align: center ;
   font-weight: bold;
   
 }
 
-div p:hover{background: darkcyan;
+button:hover{background: darkcyan;
   color:white;
 }
 

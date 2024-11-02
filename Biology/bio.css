@@ -32,6 +32,7 @@
     font-weight:bold;
     margin-left: 5%;
     margin-right: 5%;}
+button p{margin-left:3px;}
   
   
    button:hover{background:white;

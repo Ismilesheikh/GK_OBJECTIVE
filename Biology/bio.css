@@ -37,6 +37,7 @@ button p{margin-left:3px;}
   
    button:hover{background:white;
     color: indianred;
+    font-size:25px;
     box-shadow: 5px 5px 5px 5px darkgray;
     width: 70%;
     margin-left: 15%;

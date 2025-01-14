@@ -55,7 +55,7 @@ button {
 
  button:hover{background:white;
   color: indianred;
-  box-shadow: 5px 5px 5px 5px darkgray;
+  box-shadow: 0 0 5px 5px darkgray,-2px -2px 2px white inset;
   width: 70%;
   margin-left: 15%;
   margin-right: 15%;

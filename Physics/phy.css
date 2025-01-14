@@ -23,7 +23,7 @@ body{ background-image: linear-gradient(
 .container{border: 2px solid goldenrod;
 margin: 10px;
 border-radius: 10px;
-box-shadow:0 0 5px darkgray ;}
+box-shadow:0 0 5px black,-5px -5px 5px white inset ;}
 button{
   width: 90%;
   margin-top:10px;

@@ -48,7 +48,7 @@ button{
 button {
   text-align: center;
   color: white;
-  box-shadow: 3px 3px 3px 3px darkgray;
+  box-shadow: 0 0 10px white;
   font-size: 35px;
   font-weight:bold;
   margin-left: 5%;
@@ -57,7 +57,7 @@ button {
 
  button:hover{background:white;
   color: indianred;
-  box-shadow: 0 0 5px 5px darkgray,-2px -2px 2px white inset;
+  box-shadow: 0 0 10px darkgray,-2px -2px 2px white inset;
   width: 70%;
   margin-left: 15%;
   margin-right: 15%;

@@ -1,7 +1,7 @@
 async function getUsers() {
   try {
     const response = await fetch(
-      'https://script.google.com/macros/s/AKfycbyujs1_9BWkbFvUmxKcQxQZdhlD13gvqzuO2LfOrTXn2frViyq1qf-Va486qgm7q1w/exec',
+      'https://script.google.com/macros/s/AKfycbyfqVLy77yoex6Rf-sBOKks2vzPJFafn_LyHlDx0JpV8Vuvj1DHteQSh3J7b52ftjsg/exec',
       {
         method: 'GET',
       },
@@ -17,6 +17,10 @@ async function getUsers() {
   } catch (error) {
     console.log(error);
   }
+finally{
+document.getElementById('loader').style.display='none';}
+
+  
 }
 
 function createQuestionElement(questionId, questionText, answers,imgLinks) {

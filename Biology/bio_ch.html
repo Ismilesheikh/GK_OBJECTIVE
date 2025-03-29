@@ -1,64 +1,167 @@
-
 <!DOCTYPE html>
 <html>
-
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Biology</title>
-  <link rel="stylesheet" href="bio.css">
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Biology</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='chapter.css'>
 </head>
-
 <body>
-  <div class="container">
-  <p class="head">Biology Chapters</p>
- 
+    
+<div id="chTitle">Loading...</div>
+    <div class="container" id="container"></div>
+    <div id="loader" class="loader"><p ></p></div>
 
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>1.वनस्पति विज्ञान एवं उनकी शाखाएँ</p></button></a> 
+<script>
+
+  async function getUsers() {
+  try {
+    const response = await fetch(
+      'https://script.google.com/macros/s/AKfycbzW7lpJSjImfHvvqOZDu9vGGpWKZmsU8hSFIrceLJkf0LsDjGhld_TYsPHAyQ8pOrgR/exec',
+      {
+        method: 'GET',
+      },
+    );
+
+    if (!response.ok) {
+      throw new Error(`Error! status: ${response.status}`);
+    }
+
+    const data = await response.json();
+
+    return data;
+  } catch (error) {
+    console.log(error);
+  }
+  finally{
+    document.getElementById('loader').style.display='none';
+  }
+}
+
+let container =document.getElementById('container');
+const chTitle=document.getElementById('chTitle');
+
+
+function chaptersf(links,buttonText,picLinks){
+ const chDiv=document.createElement('div');
+ chDiv.className='chDiv';
+ const chPic=document.createElement('img');
+       chPic.src=picLinks;
+       chPic.alt='';
+      
+  let chapLinks=document.createElement('a');
+  chapLinks.href=links;
+  
+  
+  const chapButton=document.createElement('button');
+  chapButton.innerText=buttonText;
+  chapLinks.appendChild(chapButton);
+  chDiv.appendChild(chPic);
+  chDiv.appendChild(chapLinks);
+  
+ return chDiv;
+}
+
+getUsers().then(data => {
+  if (data && data.length > 0) {
+chTitle.innerText=data[2].Chapter;
+for(let i=1;i<=Number(data[38].Chapter);i++){
+  let chapters=chaptersf(data[2*i+2].links,data[2*i+2].Chapter,data[2*i+2].pics);
+
+  container.appendChild(chapters);
+  
+}
+
+
+  }
+  
+});
+
+
+</script>
+<style>
+
+  #chTitle{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(238, 72, 205);
+    background: linear-gradient(to left, #70dfee,rgb(244, 241, 241));
+    background-clip: text;
+    color: transparent;
    
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>2.पादप जगत का वर्गीकरण</p></button></a> 
+  }
+body{background:darkgray;}
+img{width: 50px;
+    height:50px;
+    margin-left: 10px;
+    border-radius:10px;
+    box-shadow: 0 0 10px ghostwhite inset;
+}
+.chDiv{
+  width: 100%;
+  height: auto;
+  display: inline-flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.chDiv button{
+  transition: width 0.5s;
+width:min-content;
+min-height:50px;
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+color: aquamarine;
+background: #e966d7;
+border-radius: 10px;
+margin-left: 5px;
+border: 1px solid white;
+box-shadow: 0 0 20px whitesmoke ;
+}
 
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>3.पादप आकारिकी</p></button></a> 
+.chDiv button:hover{
+width: 100%;
 
 
-   
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>4.आवृतबीजियों का वर्गीकरण</p></button></a> 
+}
 
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>5.पादप कार्यिकी</p></button></a> 
+.loader {
+  position:absolute;
+  top:0;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+.loader p {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+  border: 6px solid #f3f3f3;
+  border-top: 6px solid #3498db;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 2s linear infinite;
+  text-align: center;
+}
 
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>6.पादप रोग</p></button></a> 
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
 
-
-
-<a href="chapter 1/ch_1.html"><button class="chapters"><P>7. पादप उत्तक</p></button></a> 
-
-
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>8.पादप अनुवंशिकी</p></button></a> 
-
-
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>9.कोशिका विज्ञान</p></button></a> 
-
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>10.पारिस्थितिकी</p></button></a> 
-
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>11.प्रदूषण</p></button></a> 
-
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>12.जन्तु विज्ञान की शाखाएँ</p></button></a> 
-
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>13.प्रमुख जीव वैज्ञानिक</p></button></a> 
-
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>14.जन्तु उत्तक</p></button></a> 
-
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>15.आनुवांशिकी</p></button></a>
-
- <a href="chapter 1/ch_1.html"><button class="chapters"><p>16.उद्विकाश (Evolution)</p></button></a> 
-
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>17.जन्तु जगत का वर्गीकरण</p></button></a> 
-
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>18.मानुष्य शरीर-क्रिया विज्ञान</p></button></a> 
-
-<a href="chapter 1/ch_1.html"><button class="chapters"><p>19.स्वा एवं पोषण</p></button></a> 
-</div>
+</style>
 </body>
-
 </html>

@@ -8,7 +8,6 @@
     
     {
         "months": "february",
-        "months": "january",
         "title" :["title1","title2"],
         "content": ["april", "may", "jun"]
       }

@@ -1,6 +1,6 @@
 [
     {"years":"2025",
-      "tabs": "January",
+      "tabs": "Jobs",
       "title" :[
 "kitna Aakele hai  ",
 "hum tere bina",
@@ -18,10 +18,31 @@
        "March"
 ]
 
-    }
+    },
 
-  
+  {"tabs":"Admits",
+"title":[""],
+"links":[""]
+    },
+
+
+  {"tabs":"Results",
+"title":[""],
+"links":[""]
+
+  },
     
    
+
+
+
+{"tabs":"syllabus",
+"title":[""],
+"links":[""]
+},
+{"tabs":"Others",
+"title":[""],
+"links":[""]
+}
    
   ]

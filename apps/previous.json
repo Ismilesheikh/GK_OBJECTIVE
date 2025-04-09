@@ -6,6 +6,10 @@
       ["Title 1 Jan", "Title 2 Jan"], 
       ["Title 1 Feb", "Title 2 Feb"]
     ],
+    "pic_link": [
+      ["", ""], 
+      ["", ""]
+    ],
     "content": [
       ["Content for Title 1 Jan", "Content for Title 2 Jan"], 
       ["Content for Title 1 Feb", "Content for Title 2 Feb"]

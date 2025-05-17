@@ -6,12 +6,12 @@
     "title": [
       ["Title 1 Jan", "Title 2 Jan"],
       ["Title 1 Feb", "Title 2 Feb"],
-      ["Important Title"]
+      ["Important Title", "Important Title 2"]
     ],
     "pic_link": [
       ["", ""], 
       ["", ""],
-      [""]
+      ["", ""]
     ],
     "content": [
       [["Content for Title 1 Jan","second"], ["Content for Title 2 Jan", "second"]],

@@ -11,12 +11,12 @@
     "pic_link": [
       ["", ""], 
       ["", ""],
-      []
+      [""]
     ],
     "content": [
       [["Content for Title 1 Jan","second"], ["Content for Title 2 Jan", "second"]],
       [["Content for Title 1 Feb", "second"], ["Content for Title 2 Feb", "second"]],
-      [[],[]]
+      [[""],[""]]
     ]
   },
   

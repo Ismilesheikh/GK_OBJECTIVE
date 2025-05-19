@@ -1,6 +1,7 @@
 [
   {
   "name": "Exam Name",
+  "imageUrl": "https://example.com/exam.png",     
   "years": [
     {
       "year": 2024,

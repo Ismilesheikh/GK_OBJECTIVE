@@ -1,12 +1,20 @@
 [
   {
-    "name": "Exam Name",
-    "imageUrl": "https://example.com/image.png",
-    "years": [2024, 2023, 2022]
-  },
-  {
-    "name": "Another Exam",
-    "imageUrl": "https://example.com/another.png",
-    "years": [2023, 2022]
-  }
+  "name": "Exam Name",
+  "years": [
+    {
+      "year": 2024,
+      "exams": [
+        { "name": "Paper 1", "imageUrl": "https://example.com/paper1.png" },
+        { "name": "Paper 2", "imageUrl": "https://example.com/paper2.png" }
+      ]
+    },
+    {
+      "year": 2023,
+      "exams": [
+        { "name": "Paper 1", "imageUrl": "https://example.com/paper1.png" }
+      ]
+    }
+  ]
+}
 ]

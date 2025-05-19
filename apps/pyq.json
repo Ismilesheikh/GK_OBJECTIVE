@@ -6,14 +6,14 @@
     {
       "year": 2024,
       "exams": [
-        { "name": "Paper 1", "imageUrl": "https://example.com/paper1.png" },
-        { "name": "Paper 2", "imageUrl": "https://example.com/paper2.png" }
+        { "name": "Paper 1", "imageUrl": "https://example.com/paper1.png","pdfUrl": "https://drive.google.com/file/d/1WxzAlWjqyR91sqWRPfRinMm7q7MKhKEk/view" },
+        { "name": "Paper 2", "imageUrl": "https://example.com/paper2.png","pdfUrl": "https://drive.google.com/file/d/1WxzAlWjqyR91sqWRPfRinMm7q7MKhKEk/view" }
       ]
     },
     {
       "year": 2023,
       "exams": [
-        { "name": "Paper 1", "imageUrl": "https://example.com/paper1.png" }
+        { "name": "Paper 1", "imageUrl": "https://example.com/paper1.png","pdfUrl": "https://drive.google.com/file/d/1WxzAlWjqyR91sqWRPfRinMm7q7MKhKEk/view" }
       ]
     }
   ]

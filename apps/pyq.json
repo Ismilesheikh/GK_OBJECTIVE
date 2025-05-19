@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Exam Name",
+    "imageUrl": "https://example.com/image.png",
+    "years": [2024, 2023, 2022]
+  },
+  {
+    "name": "Another Exam",
+    "imageUrl": "https://example.com/another.png",
+    "years": [2023, 2022]
+  }
+]

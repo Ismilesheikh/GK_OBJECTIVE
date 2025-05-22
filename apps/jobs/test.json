@@ -18,7 +18,7 @@
 {"type":"table",
 "headers": ["Section"],
     "rows": [
-      ["Math \n Science"],
+      ["Math \nScience"],
       ["Science"]
     ]
 }

@@ -5,9 +5,9 @@
   },
   {
     "type": "table",
-    "headers": ["Subject", "Marks"],
+    "headers": ["Section", "Links"],
     "rows": [
-      ["Math", "90"],
+      ["Math", "https://drive.google.com/uc?export=download&id=1WxzAlWjqyR91sqWRPfRinMm7q7MKhKEk"],
       ["Science", "85"]
     ]
   },

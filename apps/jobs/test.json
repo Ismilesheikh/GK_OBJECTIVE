@@ -15,10 +15,12 @@
     "type": "image",
     "url": "https://via.placeholder.com/400x200"
   },
-  
-  {
-  "type": "youtube",
-  "url": ""
-  }
+{"type":"table",
+"headers": ["Section"],
+    "rows": [
+      ["Math \n Science"],
+      ["Science"]
+    ]
+}
 
 ]

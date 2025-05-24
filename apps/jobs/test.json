@@ -7,7 +7,7 @@
     "type": "table",
     "headers": ["Subject", "Marks"],
     "rows": [
-      ["Math", "90"],
+      ["Math", "90"], 
       ["Science", "85"]
     ]
   },

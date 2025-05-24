@@ -5,9 +5,13 @@
   },
   {
     "type": "table",
-    "headers": ["Subject", "Marks"],
+    "headers": ["Section", "Links"],
     "rows": [
+<<<<<<< HEAD
       ["Math", "90"], 
+=======
+      ["Math", "https://drive.google.com/uc?export=download&id=1WxzAlWjqyR91sqWRPfRinMm7q7MKhKEk"],
+>>>>>>> 9e0e6a1590306d370b7c34f31e3f631c771b95ab
       ["Science", "85"]
     ]
   },
@@ -15,13 +19,12 @@
     "type": "image",
     "url": "https://via.placeholder.com/400x200"
   },
-  {
-    "type": "video",
-    "url": ""
-  },
-  {
-  "type": "youtube",
-  "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-  }
+{"type":"table",
+"headers": ["Section"],
+    "rows": [
+      ["Math \nScience"],
+      ["Science"]
+    ]
+}
 
 ]

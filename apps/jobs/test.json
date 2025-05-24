@@ -7,11 +7,7 @@
     "type": "table",
     "headers": ["Section", "Links"],
     "rows": [
-<<<<<<< HEAD
       ["Math", "90"], 
-=======
-      ["Math", "https://drive.google.com/uc?export=download&id=1WxzAlWjqyR91sqWRPfRinMm7q7MKhKEk"],
->>>>>>> 9e0e6a1590306d370b7c34f31e3f631c771b95ab
       ["Science", "85"]
     ]
   },

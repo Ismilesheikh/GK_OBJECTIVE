@@ -4,10 +4,12 @@
 "data":"this is a test this is a test",
 "url":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/updates/uptest.json"
 },
+{"type":"native_ads"},
 {
 "type": "text",
 "data":"this is a second test",
 "url":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/updates/uptest.json"
-}
+},
+{"type":"banner_ads"}
 
 ]

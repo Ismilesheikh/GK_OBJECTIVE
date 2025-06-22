@@ -9,12 +9,12 @@
 "title2"
 ],
 
-"ant_content" :[["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"]
+"ant_content" :[[{"type":"text","data":"test data chemistry"}],
+[{}],
+[{}],
+[{}],
+[{}],
+[{}]
 ],
 "ant_link": [
 "https://www.gooogle.com",
@@ -26,22 +26,22 @@
 ],
 
 "med_title":["che 1"],
-"med_content" :[["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"]
+"med_content" :[[{"type":"text","data":"test data med"}],
+[{}],
+[{}],
+[{}],
+[{}],
+[{}]
 ],
 "med_link":[""],
 
 "mod_title":["Bio 1","Bio 2"],
-"mod_content" :[["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"]
+"mod_content" :[[{"type":"text","data":"test data mod"}],
+[{}],
+[{}],
+[{}],
+[{}],
+[{}]
 ],
 "mod_link":["",""]
 

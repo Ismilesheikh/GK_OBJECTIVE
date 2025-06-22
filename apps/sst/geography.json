@@ -8,12 +8,12 @@
 "title1",
 "title2"
 ],
-"world_content" :[["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"]
+"world_content" :[[{"type":"text","data":"test data world"}],
+[{}],
+[{}],
+[{}],
+[{}],
+[{}]
 ],
 "world_link": [
 "https://www.gooogle.com",
@@ -25,12 +25,12 @@
 ],
 
 "india_title":["india 1"],
-"india_content" :[["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"],
-["first con","second con", "third con", "fourth con", "fifth con", "sixth con"]
+"india_content" :[[{"type":"text","data":"test data india"}],
+[{}],
+[{}],
+[{}],
+[{}],
+[{}]
 ],
 "india_link":[""]
 

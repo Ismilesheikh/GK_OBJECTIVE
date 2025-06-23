@@ -2,5 +2,8 @@
   "upiId": "yourupiid@upi",
   "name": "Your Name",
   "note": "Donation for app support",
+  "massages":"More Questions are comming soon! \n I daily update the app with new questions. \n If you have any suggestions, please let me know.",
+  "text1": "Thank you for your support!",
+  "text2": "text",
   "amounts": [5, 10, 15, 20]
 }

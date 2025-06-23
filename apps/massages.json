@@ -1,0 +1,6 @@
+{
+  "upiId": "yourupiid@upi",
+  "name": "Your Name",
+  "note": "Donation for app support",
+  "amounts": [5, 10, 15, 20]
+}

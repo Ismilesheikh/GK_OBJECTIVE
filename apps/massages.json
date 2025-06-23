@@ -1,9 +1,9 @@
 {
-  "upiId": "yourupiid@upi",
-  "name": "Your Name",
+  "upiId": "gkobjective@ybl",
+  "name": "Gk Objective",
   "note": "Donation for app support",
   "massages":"More Questions are comming soon! \n I daily update the app with new questions. \n If you have any suggestions, please let me know.",
-  "text1": "Thank you for your support!",
-  "text2": "text",
+  "text1": "Support Me",
+  "text2": "Your support helps us maintain and improve this app",
   "amounts": [5, 10, 15, 20]
 }

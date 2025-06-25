@@ -2,9 +2,8 @@
   {
     "years": "2024",
     "months": ["January"],
-    "links":["https://script.google.com/macros/s/AKfycbye2qyDB-bzdd3iK0K08MwRX-g8TtW3vQ6Ms-ADqaVIpcuwudkL3pS3MLslSf8auNGw/exec","",""],
-    "massageLink":[
-    "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","",""],
+    "links":["https://script.google.com/macros/s/AKfycbye2qyDB-bzdd3iK0K08MwRX-g8TtW3vQ6Ms-ADqaVIpcuwudkL3pS3MLslSf8auNGw/exec"],
+    "massageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
     "title": [
       ["Title 1 Jan", "Title 2 Jan"]
       
@@ -20,7 +19,7 @@
     "months": ["March"],
     "links": [""],
     "massageLink":[
-    "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",""],
+    "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
     "title": [
       ["Title 1 Mar", "Title 2 Mar"]
     ],

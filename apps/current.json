@@ -4,49 +4,24 @@
       "link":"https://script.google.com/macros/s/AKfycbye2qyDB-bzdd3iK0K08MwRX-g8TtW3vQ6Ms-ADqaVIpcuwudkL3pS3MLslSf8auNGw/exec",
       "massageLink":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
       "title" :[
-"iscsdslkcasljd odksk idsjdj jjsoidjosaj ijdjsxj ijxsij ojxjoiADJ IJXJ AXJ KSJ SDJWDJ ",
-"hum tere bina",
-"par kya hua hai",
-"Dil se dua hai",
-"title1",
-"title1",
-"title1",
-"title1",
-"title1",
-"title1",
-"title2"
+"fist affairs"
 ],
 
-"pic_link":["","","","",""],
-      "content": [[ {"type":"image","data":""},{"type":"text","data":"this is test text"},{}],
-      [],
-      [],
-      [],
-      [],
-      []]
+"pic_link":[""],
+      "content": [[{"type":"image","data":""},{"type":"text","data":"this is test text"}]]
 
     },
+
     {"years":"2025",
       "months": "February",
       "link":"https://script.google.com/macros/s/AKfycbye2qyDB-bzdd3iK0K08MwRX-g8TtW3vQ6Ms-ADqaVIpcuwudkL3pS3MLslSf8auNGw/exec",
       "massageLink":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
       "title" :[
-"kitna Aakele hai",
-"hum tere bina",
-"par kya hua hai",
-"Dil se dua hai",
-"title1",
-"title2"
+"kitna Aakele hai"
 ],
 
-"pic_link":["","","","",""],
-      "content": [[ {"type":"text","data":"this is test2 text"},{},{}],
-      [{}],
-      [{}],
-      [{}],
-      [{}],
-      [{}]]
-
+"pic_link":[""],
+      "content": [[ {"type":"text","data":"this is test2 text"}]]
     },
 
      {"years":"2025",
@@ -54,21 +29,11 @@
       "massageLink":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
       "link":"https://script.google.com/macros/s/AKfycbye2qyDB-bzdd3iK0K08MwRX-g8TtW3vQ6Ms-ADqaVIpcuwudkL3pS3MLslSf8auNGw/exec",
       "title" :[
-"kitna Aakele hai  ",
-"hum tere bina",
-"par kya hua hai",
-"Dil se dua hai",
-"title1",
-"title2"
+"kitna Aakele hai  "
 ],
 
-"pic_link":["","","","",""],
-      "content": [[ {},{},{}],
-      [{}],
-      [{}],
-      [{}],
-      [{}],
-      [{}]]
+"pic_link":[""],
+  "content": [[ {"type":"text","data":"this is test2 text"}]]
 
     }
 

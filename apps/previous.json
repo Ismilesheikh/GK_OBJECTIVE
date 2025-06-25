@@ -16,7 +16,7 @@
       ["", ""]
     ],
     "content": [
-      [[{"type":"text","data":"Content for Title 1 Jan"},{ "type":"test","data":"ok test"}], [{}, {}]],
+      [[{"type":"text","data":"Content for Title 1 Jan"},{ "type":"text","data":"ok test"}], [{}, {}]],
       [[{}, {}], [{}, {}]],
       [[{}],[{}]]
     ]

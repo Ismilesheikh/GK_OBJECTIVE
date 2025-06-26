@@ -1,4 +1,8 @@
-[
+[ {
+  "type": "heading",
+    "heading": "Welcome to the daily update!",
+    "left":"27/06/2025"
+},
   {
     "type": "text",
     "data": "Welcome to the daily update!"

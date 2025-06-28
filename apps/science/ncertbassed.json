@@ -1,49 +1,24 @@
 [
     {
 "phy_title" :[
-"kitna Aakele hai  ",
-"hum tere bina",
-"par kya hua hai",
-"Dil se dua hai",
-"title1",
-"title2"
+"kitna Aakele hai  "
 ],
-"phy_content" :[[{"type":"text","data":"test data"}],
-[{}],
-[{}],
-[{}],
-[{}],
-[{}]
+"phy_content" :[[{"type":"text","data":"test data"}]
 ],
 "phy_link": [
-"https://www.google.com",
-"https://www.google.com",
-"https://www.google.com",
-"https://www.google.com",
- "https://www.google.com",
- ""
+"https://www.google.com"
 ],
 
 "che_title":["che 1"],
 "che_content" :[
-    [{"type":"text","data":"test data che"}],
-[{}],
-[{}],
-[{}],
-[{}],
-[{}]
+    [{"type":"text","data":"test data che"}]
 ],
 "che_link":[""],
 
 "bio_title":["Bio 1","Bio 2"],
-"bio_content" :[[{"type":"text","data":"test data Bio"}],
-[{}],
-[{}],
-[{}],
-[{}],
-[{}]
+"bio_content" :[[{"type":"text","data":"test data Bio"}]
 ],
-"bio_link":["",""]
+"bio_link":[""]
 
 }
 

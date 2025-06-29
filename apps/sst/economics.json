@@ -6,10 +6,8 @@
 
 "eco_content" :[[{"type":"text","data":"test data Eco"}]
 ],
-
-
-"eco_link": [""
-]
+"massageLink":[""],
+"eco_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics_qa.json"
 
 }
 

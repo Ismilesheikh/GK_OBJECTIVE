@@ -1,47 +1,23 @@
 [
     {
 "ant_title" :[
-"kitna Aakele hai  ",
-"hum tere bina",
-"par kya hua hai",
-"Dil se dua hai",
-"title1",
-"title2"
+"ancient india"
 ],
 
-"ant_content" :[[{"type":"text","data":"test data chemistry"}],
-[{}],
-[{}],
-[{}],
-[{}],
-[{}]
+"ant_content" :[[{"type":"text","data":"test data chemistry"}]
 ],
 "ant_link": [
-"https://www.gooogle.com",
-"https://www.gooogle.com",
-"https://www.gooogle.com",
-"https://www.gooogle.com",
- "https://www.gooogle.com",
- ""
+"https://www.gooogle.com"
 ],
 
 "med_title":["che 1"],
-"med_content" :[[{"type":"text","data":"test data med"}],
-[{}],
-[{}],
-[{}],
-[{}],
-[{}]
+"med_content" :[[{"type":"text","data":"test data med"}]
 ],
 "med_link":[""],
 
 "mod_title":["Bio 1","Bio 2"],
 "mod_content" :[[{"type":"text","data":"test data mod"}],
-[{}],
-[{}],
-[{}],
-[{}],
-[{}]
+[{"type":"text","data":"test data mordern india"}]
 ],
 "mod_link":["",""]
 

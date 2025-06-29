@@ -6,12 +6,8 @@
 
 "con_content" :[[{"type":"text","data":"test data constitution"}]
 ],
-
-
-"con_link": [
-""
-]
-
+"con_massageLink":[""],
+"con_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/constitution_qa.json"
 }
 
 ]

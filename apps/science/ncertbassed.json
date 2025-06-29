@@ -5,20 +5,23 @@
 ],
 "phy_content" :[[{"type":"text","data":"test data"}]
 ],
-"phy_link": [
+"phy_massageLink":[""],
+"phy_link": 
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/ncert/physics_qa.json"
-],
+,
 
 "che_title":["che 1"],
 "che_content" :[
     [{"type":"text","data":"test data che"}]
 ],
-"che_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/ncert/chemistry.json"],
+"che_massageLink":[""],
+"che_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/ncert/chemistry.json",
 
 "bio_title":["Bio 1"],
 "bio_content" :[[{"type":"text","data":"test data Bio"}]
 ],
-"bio_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/ncert/biology_qa.json"]
+"bio_massageLink":[""],
+"bio_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/ncert/biology_qa.json"
 
 }
 

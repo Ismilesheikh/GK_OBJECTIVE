@@ -6,10 +6,9 @@
 
 "bio_content" :[[{"type":"text","data":"test data biology"}]
 ],
-
-
-"bio_link": [
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology.json"]
+"massageLink":[""],
+"bio_link": 
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology.json"
 }
 
 ]

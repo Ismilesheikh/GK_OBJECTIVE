@@ -1,24 +1,24 @@
 [
     {
 "phy_title" :[
-"kitna Aakele hai  "
+"Phy Introduction"
 ],
 "phy_content" :[[{"type":"text","data":"test data"}]
 ],
 "phy_link": [
-"https://www.google.com"
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/ncert/physics_qa.json"
 ],
 
 "che_title":["che 1"],
 "che_content" :[
     [{"type":"text","data":"test data che"}]
 ],
-"che_link":[""],
+"che_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/ncert/chemistry.json"],
 
-"bio_title":["Bio 1","Bio 2"],
+"bio_title":["Bio 1"],
 "bio_content" :[[{"type":"text","data":"test data Bio"}]
 ],
-"bio_link":[""]
+"bio_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/ncert/biology_qa.json"]
 
 }
 

@@ -7,18 +7,18 @@
 "ant_content" :[[{"type":"text","data":"test data chemistry"}]
 ],
 "ant_link":
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient_qa.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics_qa.json",
 
 "med_title":["Medival India 1"],
 "med_content" :[[{"type":"text","data":"test data med"}]
 ],
-"med_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival_qa.json",
+"med_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics_qa.json",
 
 "mod_title":["Modern India 1","Modern India 2"],
 "mod_content" :[[{"type":"text","data":"test data mod"}],
 [{"type":"text","data":"test data mordern india"}]
 ],
-"mod_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/modern_qa.json"
+"mod_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics_qa.json"
 
 }
 

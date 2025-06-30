@@ -6,12 +6,12 @@
 "world_content" :[[{"type":"heading","heading":"The heading","left":"","right":""},{"type":"text","data":"test data world"}]
 ],
 "world_massageLink":[""],
-"world_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world_qa.json",
+"world_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics_qa.json",
 
 "india_title":["india 1"],
 "india_content" :[[{"type":"text","data":"test data india"}]
 ],
 "india_massageLink":[""],
-"india_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/india_qa.json"}
+"india_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics_qa.json"}
 
 ]

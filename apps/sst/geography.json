@@ -5,7 +5,7 @@
 ],
 "world_content" :[[{"type":"heading","heading":"The heading","left":"","right":""},{"type":"text","data":"test data world"}],[{"type":"heading","heading":"The heading 2","left":"","right":""},{"type":"text","data":"test data world 2"}]
 ],
-"world_massageLink":["",""],
+"world_massageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
 "world_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world_qa.json",
 
 "india_title":[""],

@@ -1,9 +1,9 @@
 [
     {
 "world_title" :[
-" भूगोलः अर्थ एवं विषयक्षेत्र"," सौरमंडल"
+" भूगोलः अर्थ एवं विषयक्षेत्र","सौरमंडल"
 ],
-"world_content" :[[{"type":"heading","heading":"The heading","left":"","right":""},{"type":"text","data":"test data world"}],[{}]
+"world_content" :[[{"type":"heading","heading":"The heading","left":"","right":""},{"type":"text","data":"test data world"}],[{"type":"heading","heading":"The heading 2","left":"","right":""},{"type":"text","data":"test data world 2"}]
 ],
 "world_massageLink":["",""],
 "world_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world_qa.json",

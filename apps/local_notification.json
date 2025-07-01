@@ -1,4 +1,14 @@
-[{"first notification":"second chance to grab"
-
+{
+  "notifications": [
+    {
+      "title": "Server Maintenance",
+      "body": "Our servers will be down at 2 AM tonight.",
+      "timestamp": "2025-07-01T10:45:00Z"
+    },
+    {
+      "title": "New Update Available",
+      "body": "Version 2.0 is now live. Please update your app.",
+      "timestamp": "2025-07-01T09:00:00Z"
+    }
+  ]
 }
-]

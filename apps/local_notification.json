@@ -3,7 +3,8 @@
     {
       "title": "Server Maintenance",
       "body": "Our servers will be down at 2 AM tonight.",
-      "timestamp": "2025-07-01T11:05:00Z"
+      "timestamp": "2025-07-01T11:05:00Z",
+       "screen": "geography"
     },
     {
       "title": "New Update Available",

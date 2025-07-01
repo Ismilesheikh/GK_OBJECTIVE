@@ -9,7 +9,8 @@
     {
       "title": "New Update Available",
       "body": "Version 2.0 is now live. Please update your app.",
-      "timestamp": "2025-07-01T09:00:00Z"
+      "timestamp": "2025-07-01T09:00:00Z",
+      "screen": "history"
     }
   ]
 }

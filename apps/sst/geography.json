@@ -8,10 +8,10 @@
 "world_massageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
 "world_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world_qa.json",
 
-"india_title":[""],
+"india_title":[" भारत : स्थिति एवं विस्तार"],
 "india_content" :[[{"type":"text","data":"test data india"}]
 ],
 "india_massageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
-"india_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/india_qa.json"}
+"india_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian_qa.json"}
 
 ]

@@ -1,13 +1,13 @@
 [
     {
 "con_title" :[
-"Part 1 - Introduction to the Constitution"
+"भारतीय संविधान का इतिहास"
 ],
 
 "con_content" :[[{"type":"text","data":"test data constitution"}]
 ],
-"massageLink":[""],
-"con_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics_qa.json"
+"massageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
+"con_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/constitution_qa.json"
 }
 
 ]

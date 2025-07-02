@@ -1,10 +1,22 @@
 {
   "notifications": [
+      {
+      "title": "New Update Available",
+      "body": "Version 2.0 is now live. Please update your app.",
+      "timestamp": "2025-07-01T13:35:00Z",
+      "screen": "history"
+    },
     {
       "title": "Server Maintenance",
       "body": "Our servers will be down at 2 AM tonight.",
       "timestamp": "2025-07-01T11:05:00Z",
        "screen": "geography"
+    },
+    {
+      "title": "New Update Available",
+      "body": "Version 2.0 is now live. Please update your app.",
+      "timestamp": "2025-07-01T13:20:00Z",
+      "screen": "history"
     }
   ]
 }

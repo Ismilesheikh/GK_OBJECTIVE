@@ -1,5 +1,11 @@
 {
   "notifications": [
+     {
+      "title": "New Question are added",
+      "body": "Some new question have been added to Our Constitution",
+      "timestamp": "2025-07-04T13:45:00Z",
+      "screen": "constitution"
+    },
       {
       "title": "New Question are added",
       "body": "Some new question have been added to biology",

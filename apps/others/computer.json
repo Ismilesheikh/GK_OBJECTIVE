@@ -1,13 +1,13 @@
 [
     {
 "com_title" :[
-"computer 1 "
+" कम्प्यूटर विज्ञान"
 ],
 
 "com_content" :[[{"type":"text","data":"test data computer"}]
 ],
-"massageLink":[""],
-"com_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics_qa.json"
+"massageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/message2"],
+"com_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/others/computer_qa.json"
 
 }
 

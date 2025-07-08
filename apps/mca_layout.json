@@ -1,0 +1,31 @@
+[ {
+  "type": "heading",
+    "heading": "Welcome to the mca page!",
+    "left":"27/06/2025",
+    "right":""
+},
+  {
+    "type": "text",
+    "data": "Welcome to the daily update!"
+  },
+  {
+    "type": "table",
+    "headers": ["Section", "Links"],
+    "rows": [
+      ["Math", "90"], 
+      ["Science", "85"]
+    ]
+  },
+  {
+    "type": "image",
+    "url": "https://via.placeholder.com/400x200"
+  },
+{"type":"table",
+"headers": ["Section"],
+    "rows": [
+      ["Math \nScience"],
+      ["Science"]
+    ]
+}
+
+]

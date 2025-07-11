@@ -10,19 +10,20 @@
     {
       "label": "2025",
       "content": [
-        { "type": "text", "data": "Class VI" },
-        { "type": "text", "data": "Class VII" },
-        { "type": "text", "data": "Class VIII" },
-        { "type": "text", "data": "Class IX" },
-        { "type": "text", "data": "Class X" },
-        { "type": "text", "data": "Class XI" },
-        { "type": "text", "data": "Class XII" }
+        { 
+          "type": "list",
+         "title": "Classes",
+  "items": [
+    "Class 6",
+    "Class 7",
+    "Class 8",
+    "Class 9",
+    "Class 10"
+  ]
+
+}  
       ]
     }
   ]
 }
-
- 
-
-
 ]

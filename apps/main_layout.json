@@ -1,31 +1,28 @@
 [ {
   "type": "heading",
-    "heading": "Welcome to the mca page!",
-    "left":"27/06/2025",
+    "heading": "NCERT BOOKS",
+    "left":"",
     "right":""
 },
-  {
-    "type": "text",
-    "data": "Welcome to the daily update!"
-  },
-  {
-    "type": "table",
-    "headers": ["Section", "Links"],
-    "rows": [
-      ["Math", "90"], 
-      ["Science", "85"]
-    ]
-  },
-  {
-    "type": "image",
-    "url": "https://via.placeholder.com/400x200"
-  },
-{"type":"table",
-"headers": ["Section"],
-    "rows": [
-      ["Math \nScience"],
-      ["Science"]
-    ]
+{
+  "type": "tabs",
+  "tabs": [
+    {
+      "label": "2025",
+      "content": [
+        { "type": "text", "data": "Class VI" },
+        { "type": "text", "data": "Class VII" },
+        { "type": "text", "data": "Class VIII" },
+        { "type": "text", "data": "Class IX" },
+        { "type": "text", "data": "Class X" },
+        { "type": "text", "data": "Class XI" },
+        { "type": "text", "data": "Class XII" }
+      ]
+    }
+  ]
 }
+
+ 
+
 
 ]

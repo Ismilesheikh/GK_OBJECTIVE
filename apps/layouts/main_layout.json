@@ -21,7 +21,7 @@
     "Class 10"
   ],
   
-  "subContent": [
+  "listContent": [
   [ {"type":"heading",
     "heading":"Class 6",
     "left":"",
@@ -32,7 +32,14 @@
     []
 
   ],
-  "links": [
+  "listlinks": [
+    "https://ncert.nic.in/textbook/pdf/6sesc1.pdf",
+    "https://ncert.nic.in/textbook/pdf/6smat2.pdf",
+    "",
+    "",
+    ""
+  ],
+  "listpdfLinks": [
     "https://ncert.nic.in/textbook/pdf/6sesc1.pdf",
     "https://ncert.nic.in/textbook/pdf/6smat2.pdf",
     "",
@@ -40,7 +47,15 @@
     ""
   ],
   "itemsList":[["Science","Mathematics"],["english"],[],[],[]],
-  "pdfLinks":[
+  "subLink":[
+    ["https://ncert.nic.in/textbook/pdf/6sesc1.pdf","https://ncert.nic.in/textbook/pdf/6smat2.pdf"],
+    [],
+    [],
+    [],
+    []
+  ],
+  "subContent":[[[],[]],[[]],[],[],[]],
+  "subpdfLinks":[
     ["https://ncert.nic.in/textbook/pdf/6sesc1.pdf","https://ncert.nic.in/textbook/pdf/6smat2.pdf"],
     [],
     [],

@@ -20,6 +20,13 @@
     "Class 9",
     "Class 10"
   ],
+  "subtitle": [
+    "Science, Mathematics",
+    "English",
+    "",
+    "",
+    ""
+  ],
   "listContent": [
   [ {"type":"heading",
     "heading":"Class 6",
@@ -29,7 +36,7 @@
     [],
     [],
     []
-    
+
   ],
   "links": [
     "https://ncert.nic.in/textbook/pdf/6sesc1.pdf",

@@ -4,12 +4,8 @@
     "left":"",
     "right":""
 },
-{
-  "type": "tabs",
-  "tabs": [
-    { "title": "NCERT Books",
-      "label": "2025",
-      "content": [
+
+  
         { 
           "type": "list",
          "title": "Classes",
@@ -45,8 +41,8 @@
     []
   ]
         }
-      ]
-    }
-  ]
-}
+      
+    
+  
+
 ]

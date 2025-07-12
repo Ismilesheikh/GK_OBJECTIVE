@@ -54,7 +54,10 @@
     [],
     []
   ],
-  "subContent":[[[],[]],[[]],[],[],[]],
+  "subContent":[[[ {"type":"heading",
+    "heading":"Class 6",
+    "left":"",
+    "right":""}],[]],[[]],[],[],[]],
   "subpdfLinks":[
     ["https://ncert.nic.in/textbook/pdf/6sesc1.pdf","https://ncert.nic.in/textbook/pdf/6smat2.pdf"],
     [],

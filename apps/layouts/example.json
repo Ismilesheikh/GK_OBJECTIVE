@@ -70,6 +70,7 @@
 },
 {
   "type": "grid",
+  "heading": "Practice Questions",
   "items": [
     {
       "title": "Math",

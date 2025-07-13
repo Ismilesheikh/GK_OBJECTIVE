@@ -20,6 +20,20 @@
     "Class 9",
     "Class 10"
   ],
+  "listMaterialLink":[
+    [""],
+    [],
+    [],
+    [],
+    []
+  ],
+"listMaterialContent":[
+    [""],
+    [],
+    [],
+    [],
+    []
+  ],
   
   "listLinks": [
     "https://ncert.nic.in/textbook/pdf/6sesc1.pdf",
@@ -30,6 +44,20 @@
   ],
  
   "itemsList":[["Science","Mathematics"],["english"],["Science","Mathematics"],["Science","Mathematics"],["Science","Mathematics"]],
+  "subMaterialLink":[
+    ["https://ncert.nic.in/textbook/pdf/6sesc1.pdf","https://ncert.nic.in/textbook/pdf/6smat2.pdf"],
+    [],
+    [],
+    [],
+    []
+  ],
+  "subMaterialContent":[
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
   "subLinks":[
     ["https://ncert.nic.in/textbook/pdf/6sesc1.pdf","https://ncert.nic.in/textbook/pdf/6smat2.pdf"],
     [],

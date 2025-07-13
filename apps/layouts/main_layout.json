@@ -55,6 +55,7 @@
 },
 {
   "type": "grid",
+  "title": "Practice Questions",
   "items": [
     {
       "title": "Math",

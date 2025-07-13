@@ -52,5 +52,22 @@
       ]
     }
   ]
+},
+{
+  "type": "grid",
+  "items": [
+    {
+      "title": "Math",
+      "subtitle": "10 Questions",
+      "icon": "https://example.com/icons/math.png"
+    },
+    {
+      "title": "Science",
+      "subtitle": "15 Questions",
+      "icon": "https://example.com/icons/science.png"
+    }
+  ]
 }
+
+
 ]

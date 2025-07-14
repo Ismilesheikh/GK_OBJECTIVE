@@ -21,6 +21,27 @@
     "Class 10"
   ],
   "subtitle": ["Let pic","","","",""],
+   "listMaterialLinks":[
+    [""],
+    [],
+    [],
+    [],
+    []
+  ],
+"listMaterialContent":[
+    [{}],
+    [],
+    [],
+    [],
+    []
+  ],
+  "listMessageLinks":[
+    [""],
+    [],
+    [],
+    [],
+    []
+  ],
 
   "listContent": [
   [ {"type":"heading",
@@ -48,6 +69,27 @@
     ""
   ],
   "itemsList":[["Science","Mathematics"],["english"],[],[],[]],
+   "subMaterialContent":[
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "subLinks":[
+    ["https://ncert.nic.in/textbook/pdf/6sesc1.pdf","https://ncert.nic.in/textbook/pdf/6smat2.pdf"],
+    [],
+    [],
+    [],
+    []
+  ],
+  "subMessageLinks":[
+    ["https://ncert.nic.in/textbook/pdf/6sesc1.pdf","https://ncert.nic.in/textbook/pdf/6smat2.pdf"],
+    [],
+    [],
+    [],
+    []
+  ],
   "subLinks":[
     ["https://ncert.nic.in/textbook/pdf/6sesc1.pdf","https://ncert.nic.in/textbook/pdf/6smat2.pdf"],
     [],

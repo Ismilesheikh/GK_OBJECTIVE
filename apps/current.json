@@ -31,9 +31,8 @@
 "sub2"
 
 ],
-
-"pic_link":[""],
-      "content": [[ {"type":"text","data":"this is test2 text"}]]
+    
+"content": [[ {"type":"text","data":"this is test2 text"}]]
     },
 
      {"years":"2025",
@@ -45,9 +44,7 @@
 ""
 ],
 "subtitle":["sub1",
-"sub2"]
-
-"pic_link":[""],
+"sub2"],
   "content": [[ {"type":"text","data":"this is test2 text"}]]
 
     }

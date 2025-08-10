@@ -1,13 +1,13 @@
 [
     {
 "bio_title" :[
-"वनस्पति विज्ञान और उसकी शाखाएं"
+"वनस्पति विज्ञान और उसकी शाखाएं","","","",""
 ],
 
-"bio_content":[[{"type":"text","data":"test data biology"}]
+"bio_content":[[{"type":"text","data":"test data biology"}],[],[],[],[]
 ],
-"massageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
-"bio_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology_qa.json"
+"massageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
+"bio_link":"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology_qa.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"
 }
 
 ]

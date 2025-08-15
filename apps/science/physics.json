@@ -8,7 +8,13 @@
 ],[{"type": "text", "data": "यांत्रिकी का अध्ययन करने के लिए गणितीय मॉडलिंग और समीकरणों का उपयोग किया जाता है। उदाहरण के लिए, न्यूटन का दूसरा नियम (F = ma) बल, द्रव्यमान, और त्वरण के बीच संबंध को दर्शाता है। यांत्रिकी में ऊर्जा संरक्षण का सिद्धांत भी महत्वपूर्ण है, जो बताता है कि कुल ऊर्जा एक बंद प्रणाली में स्थिर रहती है।"}],[],[],[],[],[],[]],
 
 "phy_link":[
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics_qa.json"],
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics/phy1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics/phy2.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics/phy3.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics/phy4.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics/phy5.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics/phy6.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics/phy7.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/physics/phy8.json"
+],
 
 "massageLink":[
     "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",

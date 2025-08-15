@@ -1,7 +1,7 @@
 [
     {
 "bio_title" :[
-"वनस्पति विज्ञान और उसकी शाखाएं"," पादप जगत का वर्गीकरण","पादप आकारिकी","आवृतबीजियों की वर्गिकी","पादप कार्यिकी"," पादप रोग","पादप ऊतक"
+"वनस्पति विज्ञान और उसकी शाखाएं"," पादप जगत का वर्गीकरण","पादप आकारिकी","आवृतबीजियों की वर्गिकी","पादप कार्यिकी"," पादप रोग","पादप ऊतक","पादप अनुवांशिकी"
 ],
 
 "bio_content":[[{"type":"text","data":"test data biology"}],[],[],[],[],[],[]
@@ -10,12 +10,14 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
 "bio_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology/bio1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology/bio2.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology/bio3.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology/bio4.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology/bio5.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology/bio6.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology/bio7.json"
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology/bio5.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology/bio6.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology/bio7.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/science/biology/bio8.json"
 ]
 }
 

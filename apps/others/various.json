@@ -1,12 +1,12 @@
 [
     {
 "var_title" :[
-" शब्द-संक्षेप"," अंतराष्ट्रीय दिवस"
+" शब्द-संक्षेप"," अंतराष्ट्रीय दिवस"," राष्ट्रीय दिवस"
 ],
-"var_content" :[[{"type":"text","data":"test data various1"},{"type":"text","data":"test data various"}],[]
+"var_content" :[[{"type":"text","data":"test data various1"},{"type":"text","data":"test data various"}],[],[]
 ],
-"massageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/message2.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/message2.json"],
-"var_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/others/various/var1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/others/various/var2.json"]
+"massageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/message2.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/message2.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/message2.json"],
+"var_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/others/various/var1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/others/various/var2.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/others/various/var3.json"]
 }
 
 ]

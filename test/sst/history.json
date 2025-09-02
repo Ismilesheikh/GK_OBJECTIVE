@@ -1,0 +1,28 @@
+[
+    {
+"ant_title" :[
+"हड़प्पा सभ्यता","वैदिक संस्कृति (1500 ई० पु० से 600 ई०)"
+],
+
+"ant_content" :[[{"type":"text","data":"test data chemistry"}],[]
+],
+"ant_messageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
+"ant_link":[
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans2.json"],
+
+"med_title":[" पूर्व मध्यकाल (उत्तर भारत)","पूर्व मध्यकाल ( 650 ई० - 1206 ई०) \n दक्षिण भारत ( चोल साम्राज्य व अन्य )"],
+"med_content" :[[{"type":"text","data":"test data med"}],[]
+],
+"med_messageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
+"med_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med2.json"],
+
+"mod_title":[" ब्रिटिश सत्ता का विस्तार\n(बंगाल,मैसुर, पंजाब आदि के संदर्भ में)","ब्रिटिश शासन का भारतीय अर्थव्यवस्था पर प्रभाव"],
+"mod_content" :[[{"type":"text","data":"test data mod"}],
+[{"type":"text","data":"test data mordern india"}]
+],
+"mod_messageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
+"mod_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/modern_qa.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/modern/mod2.json"]
+
+}
+
+]

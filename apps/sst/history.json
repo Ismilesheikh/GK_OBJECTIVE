@@ -26,11 +26,17 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans9.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans10.json"],
 
-"med_title":[" पूर्व मध्यकाल (उत्तर भारत)","पूर्व मध्यकाल ( 650 ई० - 1206 ई०) \n दक्षिण भारत ( चोल साम्राज्य व अन्य )"],
+"med_title":[" पूर्व मध्यकाल (उत्तर भारत)","पूर्व मध्यकाल ( 650 ई० - 1206 ई०) \n दक्षिण भारत(चोल साम्राज्य व अन्य )","सल्तनतकाल(1206 ई० - 1526 ई०)\nI.दिल्ली  सल्तनत","सल्तनतकाल(1206 ई० - 1526 ई०)\nII.विजयनगर व अन्य प्रांतीय राज्य"],
 "med_content" :[[{"type":"text","data":"test data med"}],[]
 ],
-"med_messageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
-"med_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med2.json"],
+"med_messageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
+"med_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med2.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med3.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med4.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med5.json"],
 
 "mod_title":[" ब्रिटिश सत्ता का विस्तार\n(बंगाल,मैसुर, पंजाब आदि के संदर्भ में)","ब्रिटिश शासन का भारतीय अर्थव्यवस्था पर प्रभाव"],
 "mod_content" :[[{"type":"text","data":"test data mod"}],

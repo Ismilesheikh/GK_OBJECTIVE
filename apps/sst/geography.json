@@ -19,10 +19,15 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world/world5.json"],
 
 "india_title":[" भारत : स्थिति एवं विस्तार"," भारत के पर्वत"," भारत के पर्वतीय दर्रे"],
-"india_content" :[[{"type":"text","data":"test data india"}],[]
+"india_content" :[[{"type":"text","data":"test data india"}],[],[]
 ],
-"india_massageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
-"india_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india1.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india2.json"]}
+"india_massageLink":[
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
+"india_link":[
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india2.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india3.json"]}
 
 ]

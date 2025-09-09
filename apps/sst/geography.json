@@ -29,7 +29,7 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world/world9.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world/world10.json",""],
 
-"india_title":[" भारत : स्थिति एवं विस्तार"," भारत के पर्वत"," भारत के पर्वतीय दर्रे"," भारत की नदियाँ","नदियों के किनारे अवस्थित भारतीय शहरें","Coming soon......"],
+"india_title":[" भारत : स्थिति एवं विस्तार"," भारत के पर्वत"," भारत के पर्वतीय दर्रे"," भारत की नदियाँ","नदियों के किनारे अवस्थित भारतीय शहरें","भारत के प्रमुख नदी बाँध","Coming soon......"],
 "india_content" :[[{"type":"text","data":"test data india"}],[],[],[],[],[]
 ],
 "india_massageLink":[
@@ -37,12 +37,15 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",""],
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+""],
 "india_link":[
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india2.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india3.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india4.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india5.json",""]}
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india5.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india6.json",
+""]}
 
 ]

@@ -1,20 +1,20 @@
 [
     {
 "eco_title" :[
-"भारतीय अर्थव्यवस्था के महत्वपूर्ण पहलू","भारत की राष्ट्रीय आय","मुद्रा और बैंकिंग","Next Coming......."
+"भारतीय अर्थव्यवस्था के महत्वपूर्ण पहलू","भारत की राष्ट्रीय आय","मुद्रा और बैंकिंग","भारत के खनीज संसाधन","Next Coming......."
 ],
 
-"eco_content" :[[{"type":"text","data":"test data Eco"}],[],[],[{"type":"text","data":" मै हर रोज कुछ नए पाठ या नए प्रश्नों को जोड़ता हूं। कुछ ही महीनों में पूरा पाठ जोड़ दिया जाएगा और प्रश्नों को जोड़ना जारी रखा जाएगा "}]
+"eco_content" :[[{"type":"text","data":"test data Eco"}],[],[],[],[{"type":"text","data":" मै हर रोज कुछ नए पाठ या नए प्रश्नों को जोड़ता हूं। कुछ ही महीनों में पूरा पाठ जोड़ दिया जाएगा और प्रश्नों को जोड़ना जारी रखा जाएगा "}]
 ],
 "massageLink":[
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 ""],
 "eco_link":[
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics_qa.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco2.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco3.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco3.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco4.json",
 ""]
 
 }

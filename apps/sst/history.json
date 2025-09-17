@@ -1,27 +1,67 @@
 [
     {
 "ant_title" :[
-"हड़प्पा सभ्यता","वैदिक संस्कृति (1500 ई० पु० से 600 ई०)"
+"हड़प्पा सभ्यता","वैदिक संस्कृति \n(1500 ई० पु० से 600 ई०)"," महाजनपद काल\n (600 ई०पू० से 325 ई०पू०)" ,"धार्मिक अंदोलन \n(छठी ई०प० से चौथी ई० पू०)"," मौर्य काल\n ( 622 ई० पु० से 185 ई० पु०)","मौर्य उत्तर / गुप्त पूर्व काल\n (185 ई० पु० से 319 ई०)"," संगम काल\n (पहली से तीसरी ई०)"," गुप्त काल ( 319 से 540 ई०)"," गुप्त उत्तर / वर्धन वंश \n( 647 ई० तक)"," विविध ( प्राचीन भारत)"
 ],
 
-"ant_content" :[[{"type":"text","data":"test data chemistry"}],[]
+"ant_content" :[[{"type":"text","data":"test data chemistry"}],[],[],[],[],[],[],[],[],[]
 ],
-"ant_messageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
+"ant_messageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json", "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
 "ant_link":[
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans2.json"],
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans2.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans3.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans4.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans5.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans6.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans7.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans8.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans9.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/ancient/ans10.json"],
 
-"med_title":[" पूर्व मध्यकाल (उत्तर भारत)","पूर्व मध्यकाल ( 650 ई० - 1206 ई०) \n दक्षिण भारत ( चोल साम्राज्य व अन्य )"],
-"med_content" :[[{"type":"text","data":"test data med"}],[]
+"med_title":[" पूर्व मध्यकाल (उत्तर भारत)","पूर्व मध्यकाल ( 650 ई० - 1206 ई०) \n दक्षिण भारत(चोल साम्राज्य व अन्य )","सल्तनतकाल(1206 ई० - 1526 ई०)\nI.दिल्ली  सल्तनत","सल्तनतकाल(1206 ई० - 1526 ई०)\nII.विजयनगर व अन्य प्रांतीय राज्य","15 वीं-16 वीं सदी के धार्मिक आंदोलन \nI. भक्ति आंदोलन"],
+"med_content" :[[{"type":"text","data":"test data med"}],[],[],[],[]
 ],
-"med_messageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
-"med_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med2.json"],
+"med_messageLink":[
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
+"med_link":[
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med2.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med3.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med4.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/medival/med5.json"],
 
-"mod_title":[" ब्रिटिश सत्ता का विस्तार\n(बंगाल,मैसुर, पंजाब आदि के संदर्भ में)","ब्रिटिश शासन का भारतीय अर्थव्यवस्था पर प्रभाव"],
+"mod_title":[" ब्रिटिश सत्ता का विस्तार\n(बंगाल,मैसुर, पंजाब आदि के संदर्भ में)",
+"ब्रिटिश शासन का भारतीय अर्थव्यवस्था पर प्रभाव",
+"19वीं-20वीं सदी के सामाजिक-धार्मिक आंदोलन",
+"जातिगत,जनजातीय,किसान व मजदूर आंदोलन","स्वतंत्रता आंदोलन \n I.1857 का विद्रोह"
+],
 "mod_content" :[[{"type":"text","data":"test data mod"}],
-[{"type":"text","data":"test data mordern india"}]
+[{"type":"text","data":"test data mordern india"}],[],[],[]
 ],
-"mod_messageLink":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
-"mod_link":["https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/modern_qa.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/modern/mod2.json"]
+"mod_messageLink":[
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json"],
+"mod_link":[
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/modern_qa.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/modern/mod2.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/modern/mod3.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/modern/mod4.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/history/modern/mod5.json"]
 
 }
 

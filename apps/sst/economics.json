@@ -1,10 +1,10 @@
 [
     {
 "eco_title" :[
-"भारतीय अर्थव्यवस्था के महत्वपूर्ण पहलू","भारत की राष्ट्रीय आय","मुद्रा और बैंकिंग","भारत के खनीज संसाधन","भारत के ऊर्जा संसाधन","उद्योग","कृषि","विविध"
+"भारतीय अर्थव्यवस्था के महत्वपूर्ण पहलू","भारत की राष्ट्रीय आय","मुद्रा और बैंकिंग","भारत के खनीज संसाधन","भारत के ऊर्जा संसाधन","उद्योग","कृषि","आर्थिक समितियाँ","विविध"
 ],
 
-"eco_content" :[[{"type":"text","data":"test data Eco"}],[],[],[],[],[], [],[{"type":"text","data":" मै हर रोज कुछ नए पाठ या नए प्रश्नों को जोड़ता हूं। कुछ ही महीनों में पूरा पाठ जोड़ दिया जाएगा और प्रश्नों को जोड़ना जारी रखा जाएगा "}]
+"eco_content" :[[{"type":"text","data":"test data Eco"}],[],[],[],[],[],[],[],[{"type":"text","data":" मै हर रोज कुछ नए पाठ या नए प्रश्नों को जोड़ता हूं। कुछ ही महीनों में पूरा पाठ जोड़ दिया जाएगा और प्रश्नों को जोड़ना जारी रखा जाएगा "}]
 ],
 "massageLink":[
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
@@ -12,7 +12,7 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 ""],
 "eco_link":[
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics_qa.json",
@@ -20,7 +20,7 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco3.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco4.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco5.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco6.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco7.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco6.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco7.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco12.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/economics/eco13.json"]
 
 }

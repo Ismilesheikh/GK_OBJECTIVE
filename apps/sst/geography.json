@@ -1,9 +1,9 @@
 [
     {
 "world_title" :[
-" भूगोलः अर्थ एवं विषयक्षेत्र","सौरमंडल","पृथ्वी की आंतरिक संरचना","महाद्वीप एवं महासागरीय नितल की उत्पत्ति","अक्षांश व देशान्तर","अंतर्राष्ट्रीय तिथि रेखा एवं समय"," चट्टान","भूकंप"," ज्वालामुखी","पर्वत,पठार एवं मैदान"," वायुमंडल की संरचना","Coming soon......"
+" भूगोलः अर्थ एवं विषयक्षेत्र","सौरमंडल","पृथ्वी की आंतरिक संरचना","महाद्वीप एवं महासागरीय नितल की उत्पत्ति","अक्षांश व देशान्तर","अंतर्राष्ट्रीय तिथि रेखा एवं समय"," चट्टान","भूकंप"," ज्वालामुखी","पर्वत,पठार एवं मैदान"," वायुमंडल की संरचना","","Coming soon......"
 ],
-"world_content" :[[{"type":"heading","heading":"The heading","left":"","right":""},{"type":"text","data":"test data world"}],[{"type":"heading","heading":"The heading 2","left":"","right":""},{"type":"text","data":"test data world 2"}],[],[],[],[],[],[],[],[],[],[],[]
+"world_content" :[[{"type":"heading","heading":"The heading","left":"","right":""},{"type":"text","data":"test data world"}],[{"type":"heading","heading":"The heading 2","left":"","right":""},{"type":"text","data":"test data world 2"}],[],[],[],[],[],[],[],[],[],[],[],[]
 ],
 "world_massageLink":[
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
@@ -17,7 +17,7 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",""],
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",""],
 "world_link":[
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world/world1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world/world2.json",
@@ -30,10 +30,11 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world/world9.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world/world10.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world/world11.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/world/world12.json",
 ""],
 
-"india_title":[" भारत : स्थिति एवं विस्तार"," भारत के पर्वत"," भारत के पर्वतीय दर्रे"," भारत की नदियाँ","नदियों के किनारे अवस्थित भारतीय शहरें","भारत के प्रमुख नदी बाँध"," भारत की झीलें"," भारत के जलप्रपात","भारत की बहुउद्देशीय परियोजनाएँ","Coming soon......"],
-"india_content" :[[{"type":"text","data":"test data india"}],[],[],[],[],[],[],[],[],[]
+"india_title":[" भारत : स्थिति एवं विस्तार"," भारत के पर्वत"," भारत के पर्वतीय दर्रे"," भारत की नदियाँ","नदियों के किनारे अवस्थित भारतीय शहरें","भारत के प्रमुख नदी बाँध"," भारत की झीलें"," भारत के जलप्रपात","भारत की बहुउद्देशीय परियोजनाएँ"," भारत की जलवायु","Coming soon......"],
+"india_content" :[[{"type":"text","data":"test data india"}],[],[],[],[],[],[],[],[],[],[]
 ],
 "india_massageLink":[
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
@@ -43,7 +44,9 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 ""],
 "india_link":[
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india1.json",
@@ -52,7 +55,7 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india4.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india5.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india6.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india7.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india8.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india9.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india8.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india9.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india10.json",
 ""]}
 
 ]

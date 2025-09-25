@@ -73,8 +73,10 @@
 "भारत की बहुउद्देशीय परियोजनाएँ",
 " भारत की जलवायु",
 "भारत के वन",
+"भारत की प्राकृतिक वनस्पति",
 "Coming soon......"],
 "india_content" :[[{"type":"text","data":"test data india"}],
+[],
 [],
 [],
 [],
@@ -99,6 +101,7 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 ""],
 "india_link":[
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india1.json",
@@ -111,7 +114,7 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india8.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india9.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india10.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india11.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india11.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/geography/indian/india11.json",
 ""]}
 
 ]

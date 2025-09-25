@@ -1,10 +1,10 @@
 [
     {
 "con_title" :[
-"भारतीय संविधान का इतिहास"," संविधान सभा","संविधान की प्रस्तवाना","संविधान की विशेषताएँ","संविधान के स्रोत","संविधान के भाग", "Coming......"
+"भारतीय संविधान का इतिहास"," संविधान सभा","संविधान की प्रस्तवाना","संविधान की विशेषताएँ","संविधान के स्रोत","संविधान के भाग","अनुसुचियाँ", "Coming......"
 ],
 
-"con_content" :[[{"type":"text","data":"test data constitution"}],[],[],[],[],[],[]
+"con_content" :[[{"type":"text","data":"test data constitution"}],[],[],[],[],[],[],[]
 ],
 "massageLink":[
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
@@ -12,7 +12,7 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/massage1.json",
 ""],
 "con_link":[
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/constitution/con1.json",
@@ -20,7 +20,7 @@
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/constitution/con3.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/constitution/con4.json",
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/constitution/con5.json",
-"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/constitution/con6.json",
+"https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/constitution/con6.json","https://ismilesheikh.github.io/GK_OBJECTIVE/apps/sst/constitution/con7.json",
 ""]
 }
 

@@ -7,8 +7,9 @@
 "This is first",
 "second",
 "Third","fourth"
-
 ],
+"subtitle":["","","",""],
+      "status":["new","new","",""],
       "links": [
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/jobs/test.json",
 "","",""

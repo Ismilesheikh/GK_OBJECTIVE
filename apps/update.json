@@ -1,6 +1,6 @@
 [
-  {"banner":["1","9"],
-   "native":["3","13"],
+  {"banner":["","",""],
+   "native":["3","13",""],
     "update":["this is best test massage to make the list perfect action and fracrtio ksdk for ta lity","let me ","Some more"],
   "screen":["job","",""],
   "content":[[{"type":"heading","heading":"test heading","left":"-","right":""},{"type": "text", "data": "This is a test message to check the functionality of the update system. It is designed to ensure that updates can be processed correctly and that the content is displayed as expected."}],[],[]],

@@ -1,0 +1,13 @@
+[
+  {  "NAPI": "10",
+    "title": "Introduction",
+    "subtitle": "Basic Concept",
+    "text": "This is a simple explanation.",
+    "math": "\\(a^2 + b^2 = c^2\\)"
+  },
+  {
+    "title": "Visual Example",
+    "subtitle": "Right Triangle",
+    "image": "https://example.com/triangle.png"
+  }
+]

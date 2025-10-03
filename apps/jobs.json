@@ -19,12 +19,16 @@
 
   {"tabs":"Admits",
 "title":[""],
+"subtitle":[""],
+"status":[""],
 "links":[""]
     },
 
 
   {"tabs":"Results",
 "title":[""],
+"subtitle":[""],
+"status":[""],
 "links":[""]
 
   },
@@ -35,10 +39,14 @@
 
 {"tabs":"syllabus",
 "title":[""],
+"subtitle":[""],
+"status":[""],
 "links":[""]
 },
 {"tabs":"Others",
 "title":[""],
+"subtitle":[""],
+"status":[""],
 "links":[""]
 }
    

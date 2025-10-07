@@ -9,9 +9,10 @@
 "subject": [["English","Hindi"],
 ["Maths","Science"],
 ["Science","Social Science"]
-
 ],
-
+"subject_subtitle":[["English","हिन्दी"],
+["हिन्दी","हिन्दी"]
+["हिन्दी","हिन्दी"]],
 "chapter":[
 [["chapter1","chapter2","banner_ad"],["chapter3","native_ad","chapter4"]],
 [["chapter4","chapter5"],["chapter6"]],

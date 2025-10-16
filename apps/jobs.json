@@ -1,27 +1,27 @@
 [
     {"years":"2025",
     "banner":"100",
-    "native":"2",
+    "native":"10",
       "tabs": "New Apply",
       "title" :[
 "This is first",
 "second",
-"Third","fourth"
+"Third","fourth","fifth"
 ],
-"subtitle":["","","",""],
-      "status":["new","new","",""],
+"subtitle":["","","","",""],
+      "status":["new","new","","",""],
       "links": [
 "https://ismilesheikh.github.io/GK_OBJECTIVE/apps/jobs/test.json",
-"","",""
+"","","",""
 ]
 
     },
 
   {"tabs":"Admits",
-"title":[""],
-"subtitle":[""],
-"status":[""],
-"links":[""]
+"title":["","","","","","","","","","","","","",""],
+"subtitle":["","","","","","","","","","","","","",""],
+"status":["","","","","","","","","","","","","",""],
+"links":["","","","","","","","","","","","","",""]
     },
 
 

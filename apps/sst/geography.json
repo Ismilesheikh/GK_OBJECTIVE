@@ -19,7 +19,8 @@
 "विश्व का जलप्रपात",
 " विश्व की नहरें"," विश्व के महाद्वीप"," विश्व के द्वीप",
 "भौगोलिक स्थाल-कृति",
-"विश्व के मरुस्थल"
+"विश्व के मरुस्थल",
+"विश्व के महासागर एवं सागर"
 ],
 "world_content" :[[{"type":"heading","heading":"The heading","left":"","right":""},{"type":"text","data":"test data world"}],
 [{"type":"heading","heading":"The heading 2","left":"","right":""},{"type":"text","data":"test data world 2"}],

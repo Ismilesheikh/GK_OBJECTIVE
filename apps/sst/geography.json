@@ -22,7 +22,8 @@
 "विश्व के मरुस्थल",
 "विश्व के महासागर एवं सागर",
 "विश्व की प्रमुख जलसंधियाँ",
-"महासागरीय जल धाराएँ"
+"महासागरीय जल धाराएँ",
+"महासागरीय लवणीयता"
 ],
 "world_content" :[[{"type":"heading","heading":"The heading","left":"","right":""},{"type":"text","data":"test data world"}],
 [{"type":"heading","heading":"The heading 2","left":"","right":""},{"type":"text","data":"test data world 2"}],

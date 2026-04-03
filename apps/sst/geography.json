@@ -36,7 +36,8 @@
 " मानचित्र पर अंकित रेखाएँ",
 "विश्व के विश्व के स्थलरूद्ध देश",
 "विश्व के बंदरगाह",
-"भौगोलिक यंत्र"
+"भौगोलिक यंत्र",
+"भौगोलिक ग्रन्थ एव उनके लेखक"
 ],
 "world_content" :[[{"type":"heading","heading":"The heading","left":"","right":""},{"type":"text","data":"test data world"}],
 [{"type":"heading","heading":"The heading 2","left":"","right":""},{"type":"text","data":"test data world 2"}],

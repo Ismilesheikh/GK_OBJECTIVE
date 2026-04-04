@@ -48,6 +48,10 @@
       ["Kaushambi / Mirzapur / Pratapgarh / Prayagraj", "56", "07 April"]
     ]
   },
+    {
+    "type": "native_ads"
+  },
+
 
   {
     "type": "text",
@@ -59,21 +63,12 @@
     "type": "table",
     "headers": ["Action", "Link"],
     "rows": [
-      ["Apply Online", "https://sewayojan.up.nic.in/"],
-      ["Official Website", "https://upsrtc.up.gov.in/"],
-      ["Download Vacancy Details", "https://upsrtc.up.gov.in/"],
-      ["Sewayojan Registration Help", "https://sewayojan.up.nic.in/"]
+      ["Apply Online", "https://sewayojan.up.nic.in/IEP/Login.aspx"],
+      ["Official Website", "https://uat.onlineupsrtc.co.in/#/home"]
     ]
   },
 
-  {
-    "type": "youtube",
-    "url": "https://www.youtube.com/watch?v=example_video_id"
-  },
 
-  {
-    "type": "native_ads"
-  },
 
   {
     "type": "banner_ads"

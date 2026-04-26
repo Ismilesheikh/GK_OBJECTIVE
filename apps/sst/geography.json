@@ -40,7 +40,7 @@
 "भौगोलिक ग्रन्थ एव उनके लेखक",
 "विश्व की प्रकृतिक वनस्पति",
 "विश्व की घासभूमियाँ",
-"विश्व के प्राकृतिक प्रदेश","विश्व की कृषि"
+"विश्व के प्राकृतिक प्रदेश","विश्व की कृषि"," कृषि के प्रकार"
 ],
 "world_content" :[[{"type":"heading","heading":"The heading","left":"","right":""},{"type":"text","data":"test data world"}],
 [{"type":"heading","heading":"The heading 2","left":"","right":""},{"type":"text","data":"test data world 2"}],

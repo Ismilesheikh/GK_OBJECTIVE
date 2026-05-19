@@ -1,0 +1,75 @@
+[
+  {
+    "type": "heading",
+    "heading": "CTET September Online Form 2026",
+    "left": "CBSE",
+    "right": "Last Date: 10 June 2026"
+  },
+
+  {
+    "type": "text",
+    "data": "Central Board of Secondary Education (CBSE) has released the notification for Central Teacher Eligibility Test (CTET) September Examination 2026. Interested candidates can apply online before 10 June 2026.",
+    "url": ""
+  },
+
+  {
+    "type": "image",
+    "url": "https://ctet.nic.in/images/ctet-logo.png"
+  },
+
+  {
+    "type": "text",
+    "data": "Important Dates:\n• Application Start: 11 May 2026\n• Last Date: 10 June 2026\n• Fee Payment Last Date: 10 June 2026\n• Correction Date: 15 – 18 June 2026\n• Exam Date: 06 September 2026\n• Admit Card: Before Exam",
+    "url": ""
+  },
+
+  {
+    "type": "text",
+    "data": "Application Fee:\n• Paper-I General/OBC: ₹1000\n• Paper-I SC/ST/PWD: ₹500\n• Both Papers General/OBC: ₹1200\n• Both Papers SC/ST/PWD: ₹600",
+    "url": ""
+  },
+
+  {
+    "type": "text",
+    "data": "Age Limit:\n• No Age Limit\n• Candidates should check official notification for complete details.",
+    "url": ""
+  },
+
+  {
+    "type": "text",
+    "data": "Eligibility:\n• Level-1 (Class 1-5): 12th Pass with D.El.Ed / JBT / B.El.Ed / D.Ed qualification\n• Level-2 (Class 6-8): Graduation Degree with B.Ed or B.El.Ed qualification",
+    "url": ""
+  },
+
+  {
+    "type": "native_ads"
+  },
+
+  {
+    "type": "text",
+    "data": "Selection Process:\n• Written Examination",
+    "url": ""
+  },
+
+  {
+    "type": "table",
+    "headers": ["Paper", "General/OBC", "SC/ST/PWD"],
+    "rows": [
+      ["Paper-I", "₹1000", "₹500"],
+      ["Both Papers", "₹1200", "₹600"]
+    ]
+  },
+
+  {
+    "type": "table",
+    "headers": ["Action", "Link"],
+    "rows": [
+      ["Apply Online", "https://ctet.nic.in/"],
+      ["Official Website", "https://ctet.nic.in/"]
+    ]
+  },
+
+  {
+    "type": "banner_ads"
+  }
+]

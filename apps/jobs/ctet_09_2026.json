@@ -65,7 +65,8 @@
     "headers": ["Action", "Link"],
     "rows": [
       ["Apply Online", "https://ctet.nic.in/"],
-      ["Official Website", "https://ctet.nic.in/"]
+      ["Official Website", "https://ctet.nic.in/"],
+      ["Notification", "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2026/05/202605111250310617.pdf"]
     ]
   },
 
